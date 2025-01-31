@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tzlil-bar.github.io/mwdogtrainer/sitemap.xml
